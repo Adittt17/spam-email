@@ -83,9 +83,6 @@ These metrics ensure that the model not only achieves high accuracy but is also 
 
 ---
 
-## 🔄 Future Work
+## Web Interactive
 
-This project can be further improved by:
-- Applying **hyperparameter tuning** (e.g., using GridSearchCV).
-- Exploring advanced models like **XGBoost** or **LightGBM**.
-- Deploying the model via **API** for integration with real-time email systems.
+[Streamlit](https://spam-email-using-rf-and-logreg.streamlit.app/)
